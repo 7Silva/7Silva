@@ -14,7 +14,7 @@
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<a hreg="https://nodejs.org" target='_blank'><img align="left" alt="Nodejs" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" /></a>
+<a href="https://nodejs.org" target='_blank'><img align="left" alt="Nodejs" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" /></a>
 <a href="https://reactjs.org" target="_blank"><img align="left" alt="React" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /></a>
 <a href="https://mysql.com/" target="_blank"><img align="left" alt="React" width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" /></a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/></a>
