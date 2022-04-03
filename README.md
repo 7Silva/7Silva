@@ -9,6 +9,7 @@
 <br />
 
 <img align="right" src="https://c.tenor.com/f-nICqWLnrQAAAAM/programmer-cycle.gif">
+  
 **Trabalho com desenvolvimento Full Stack aproximadamente 3 anos. <br /> Fiquei 6 meses sem programar, mas logo após voltei a programar e desde então só tenho melhorado. <br />Comecei a mexer com React, Next e Chakra-UI há 3 Meses, mas já mexia com HTML, CSS e JS a 2 anos.**
 
 #### Linguagens & Ferramentas:
