@@ -1,4 +1,4 @@
-## Olá, me chamo <a href="https://github.com/7Silva" target="_blank">Daniel T. Silva</a>.
+## Hello, my name is <a href="https://github.com/7Silva" target="_blank">Daniel T. Silva</a>.
 
 <a href="https://darkstore.store" target="_blank"><img align="left" alt="darkstore.store" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
 <a href="https://www.linkedin.com/in/daniel-texeira-silva-498620233/" target="_blank"><img align="left" alt="Daniel T. Silva | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
@@ -10,9 +10,11 @@
 
 <img align="right" src="https://c.tenor.com/f-nICqWLnrQAAAAM/programmer-cycle.gif">
   
-**Trabalho com desenvolvimento Full Stack aproximadamente 3 anos. <br /> Fiquei 6 meses sem programar, mas logo após voltei a programar e desde então só tenho melhorado. <br />Comecei a mexer com React, Next e Chakra-UI há 3 Meses, mas já mexia com HTML, CSS e JS há 2 anos.**
+**I Work with Full Stack development about 3 years
+I was 6 months without programming, but soon after I started programming again and since then I have only improved.<br />
+I started using React, Next and Chakra-UI 3 months ago, but I've been working with HTML, CSS and JS for 2 years.**
 
-#### Linguagens & Ferramentas:
+#### Languages & Tools:
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
