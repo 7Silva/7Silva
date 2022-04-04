@@ -10,10 +10,12 @@
 
 <img align="right" src="https://c.tenor.com/f-nICqWLnrQAAAAM/programmer-cycle.gif">
   
-**I Work with Full Stack development about 3 years
-I was 6 months without programming, but soon after I started programming again and since then I have only improved.<br />
-I started using React, Next and Chakra-UI 3 months ago, but I've been working with HTML, CSS and JS for 2 years.**
-
+* **I Work with Full Stack development about 3 years.**
+* **I was 6 months without programming, but soon after I started programming again and since then I have only improved.**<br />
+* **I started using React, Next and Chakra-UI 3 months ago, but I've been working with HTML, CSS and JS for 2 years.**
+  
+<hr />
+  
 #### Languages & Tools:
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
