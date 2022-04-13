@@ -1,6 +1,6 @@
 ## Hello, my name is <a href="https://github.com/7Silva" target="_blank">Daniel T. Silva</a>.
 
-<a href="https://darkstore.store" target="_blank"><img align="left" alt="darkstore.store" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
+<a href="https://veyroz.com" target="_blank"><img align="left" alt="darkstore.store" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
 <a href="https://www.linkedin.com/in/daniel-texeira-silva-498620233/" target="_blank"><img align="left" alt="Daniel T. Silva | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <a href="https://instagram.com/7Silvasz" target="_blank"><img align="left" alt="7Silvasz | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://twitter.com/7Silvasz" target="_blank"><img align="left" alt="7Silvasz | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" /></a>
