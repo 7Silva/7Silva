@@ -10,7 +10,7 @@
   
 * **I Work with Full Stack development about 3 years.**
 * **I was 6 months without programming, but soon after I started programming again and since then I have only improved.**<br />
-* **I started using React, Next and Chakra-UI 3 months ago, but I've been working with HTML, CSS and JS for 2 years.**
+* **Currently my main focus is React, React Native, MySQL + Sequelize or Prisma, Expo, NextJS, Chakra-UI and Tailwind CSS.**
   
 <hr />
   
