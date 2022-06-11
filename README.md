@@ -1,4 +1,4 @@
-## Hello, my name is <a href="https://github.com/7Silva" target="_blank">Daniel T. Silva</a>.
+## Hello, my name is <a href="https://github.com/7Silva" target="_blank">Daniel Teixeira Silva</a>.
 
 <a href="https://veyroz.com" target="_blank"><img align="left" alt="darkstore.store" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
 <a href="https://www.linkedin.com/in/daniel-texeira-silva-498620233/" target="_blank"><img align="left" alt="Daniel T. Silva | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
