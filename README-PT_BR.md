@@ -20,6 +20,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="https://nodejs.org" target='_blank'><img align="left" alt="Nodejs" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" /></a>
 <a href="https://reactjs.org" target="_blank"><img align="left" alt="React" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /></a>
+<a href="https://docker.com/" target="_blank"><img align="left" alt="Docker" width="30px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" /></a>
 <a href="https://mysql.com/" target="_blank"><img align="left" alt="React" width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" /></a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/></a>
 <a href="https://github.com/"><img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" /></a>
