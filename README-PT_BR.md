@@ -8,9 +8,8 @@
 <br />
 <br />
   
-* **Trabalho com Desenvolvimento Full Stack há cerca de 3 anos.**
-* **Fiquei 6 meses sem programar, mas logo depois voltei a programar e desde então só melhorei.**<br />
-* **Atualmente meu foco principal é React, React Native, MySQL + Sequelize ou Prisma, Expo, NextJS, Chakra-UI e Tailwind CSS.**
+* **Eu sou um desenvolvedor Full Stack com aproximadamente 4 anos de experiência na área.**
+* **Eu tenho experiência em trabalhar com uma variedade de tecnologias, incluindo JavaScript, NodeJS, ReactJS, React Native, MySQL/PrismaORM, Expo, NextJS/Vite, TalwindCSS e Docker. No entanto, meu foco principal está em desenvolvimento com NodeJS, ReactJS, NextJS, TalwindCSS e MySQL/PrismaORM.**<br />
   
 <hr />
   
