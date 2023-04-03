@@ -8,9 +8,8 @@
 <br />
 <br />
   
-* **I Work with Full Stack development about 3 years.**
-* **I was 6 months without programming, but soon after I started programming again and since then I have only improved.**<br />
-* **Currently my main focus is React, React Native, MySQL + Sequelize or Prisma, Expo, NextJS, Chakra-UI and Tailwind CSS.**
+* **I am a Full Stack programmer, working in the field for about 4 years.**
+* **I work with: JavaScript, NodeJS, ReactJS, React Native, MySQL/PrismaORM, Expo, NextJS/Vite, TalwindCSS and docker. But my main focus is on: NodeJS, ReactJS, NextJS, TalwindCSS and MySQL/PrismaORM.**
   
 <hr />
   
