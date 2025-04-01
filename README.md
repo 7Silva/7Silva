@@ -6,8 +6,8 @@
 <br />
 <br />
   
-* **I am a Full Stack programmer, working in the field for about 4 years.**
-* **I work with: JavaScript, NodeJS, ReactJS, React Native, MySQL/PrismaORM, Expo, NextJS/Vite, TalwindCSS and docker. But my main focus is on: NodeJS, ReactJS, NextJS, TalwindCSS and MySQL/PrismaORM.**
+* **A Full Stack developer who has been working in the industry for around 5 years.**
+* **I work with: JavaScript, NodeJS, ReactJS, React Native, MySQL/PrismaORM, Java, Go, NextJS/Vite, TalwindCSS and docker. But my main focus is on: Java, Go, ReactJS, NextJS, TalwindCSS.**
   
 <hr />
   
